@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Alex Buser](https://github.com/Albuser)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
@@ -3766,5 +3767,4 @@ first contributions - hanyang univ.
 - [Ayush Srivastava](https://github.com/ayush91985)
 - [Sergei Shtukaturov](https://github.com/Zimovit/)
 - [Hrishi](https://github.com/Excalibur1999)
--[]
-- [Uday Kharatmol](https://github.com/UdayKharatmol)
+- [Rahul Talukdar](https://github.com/rahultalukdargithub)
